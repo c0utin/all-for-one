@@ -39,7 +39,7 @@ pub fn main() void {
     const headers = [_][]const u8{ "M", "T", "W", "T", "F" };
     const rows = [_][]const u8{
         "Algorithms", "Math",    "Algorithms", "Math",    "Networks",
-        "Zigging",    "Zigging", "Zigging",    "Zigging", "Zigging",
+        "Zigging",    "Zigging", "Networks",   "Zigging", "Zigging",
     };
 
     var colWidths = [_]usize{ 0, 0, 0, 0, 0 };
