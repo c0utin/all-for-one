@@ -2,8 +2,8 @@ fn main() {
     // Define the table data
     let table = vec![
         vec![":0", "Algorithms", "Math", "Math", "Algorithms", "Math"],
-        vec![":)", "Networks", "Rust", "Networks", "Rust", "Rust"],
-        vec!["Read", "Algorithms", "Rust", "Algorithms", "Algorithms", "X"],
+        vec![":)", "Networks", "Blockchain", "Networks", "Blockchain", "Blockchain"],
+        vec!["Read", "Algorithms", "Blockchain", "Algorithms", "Algorithms", "X"],
     ];
 
     // Print the table header
