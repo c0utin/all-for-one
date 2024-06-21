@@ -3,8 +3,7 @@
 ## Topics
 
 ### Math
-
-- [ ] Possani (pre-calc)
+- [ ] The essence of calculus 
 - [ ] Possani (calc)
 - [ ] Stewart calc
 
