@@ -9,6 +9,7 @@
 
 ### Data
 - [ ] ML in Golang (BOOK)
+- [ ] ML in Rust (BOOK)
 
 ### Blockchain
 - [ ] Foundations of Blockchains(https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
