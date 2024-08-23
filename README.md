@@ -56,7 +56,8 @@
 - [ ] Torrent client
 - [ ] Messages w/my protocol
 - [ ] Audio programming
-- [ ] Script arch-btw installation 
+- [ ] Script arch-btw installation
+- [x] CPU
 
 ## Others
 - [ ] Vim nerd GIT 1
