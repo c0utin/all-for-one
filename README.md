@@ -6,6 +6,7 @@
 - [ ] The essence of calculus 
 - [ ] Possani (calc)
 - [ ] Stewart calc (BOOK)
+- [ ] Linear algebra done rigth (Sheldon)
 
 1. discrete mathematics (logic, set theory, combinatorics, graph theory, algorithms, number theory, proof techniques)
   - book: discrete mathematics and it's applications
@@ -33,12 +34,14 @@
 
 ### Blockchain
 - [ ] Foundations of Blockchains(https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
+- [ ] Solana education 
 
 ### Algorithms
 - [ ] Introduction to Algorithms cormen (BOOK)
 - [ ] Abdul Bari Playlist
 - [ ] Vim nerd part 1
 - [ ] Vim nerd part 2
+- [ ] The art of computer programming
 
 ## Projects
 - [ ] Blockchain (https://github.com/c0utin/laygochain)
@@ -58,6 +61,7 @@
 - [ ] Audio programming
 - [ ] Script arch-btw installation
 - [x] CPU
+- [ ] pytorch in zig 
 
 ## Others
 - [ ] Vim nerd GIT 1
@@ -65,6 +69,7 @@
 - [ ] Vim nerd VIM
 - [ ] Rust WEB (BOOK) 
 - [ ] Computer Networks (BOOK)
-- [ ] Rust Action (BOOK)
+- [x] Rust Action (BOOK)
 - [ ] Redes Gabriel torres (UDEMY)
 - [ ] bootdev go cryptography
+- [ ] book the pillars of programming
