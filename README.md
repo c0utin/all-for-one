@@ -1,5 +1,8 @@
 # All for one 
 
+## Posts
+- [ ] book the pillars of programming
+
 ## Topics
 
 ### Math
@@ -61,7 +64,8 @@
 - [ ] Audio programming
 - [ ] Script arch-btw installation
 - [x] CPU
-- [ ] pytorch in zig 
+- [ ] pytorch in zig
+- [ ] Game
 
 ## Others
 - [ ] Vim nerd GIT 1
@@ -72,4 +76,3 @@
 - [x] Rust Action (BOOK)
 - [ ] Redes Gabriel torres (UDEMY)
 - [ ] bootdev go cryptography
-- [ ] book the pillars of programming
