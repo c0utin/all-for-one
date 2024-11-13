@@ -4,6 +4,7 @@
   - [ ] Fundamentos2023
   - [ ] Naive Set Theory
   - [ ] Fundamentos de matemática
+  - [ ] Discrete mathematics and its applications (caps 1,2, 6, 8, 12, 13) (NOT USP BOOK)
    
 
 - [ ] **[Cálculo I (SMA0301)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0301&codcur=55030&codhab=100)**
