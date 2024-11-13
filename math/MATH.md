@@ -1,8 +1,10 @@
 ### 1º 07/11/2024 - 07/5/2025
 
 - [ ] **[Fundamentos de Matemática (SMA0386)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0386&codcur=55030&codhab=100)**
-  - **Livro**: fundamentos2023
-    **Conteúdo Coberto**: Revisão dos conceitos básicos de álgebra, conjuntos, funções, lógica e princípios de contagem. Esse livro é fundamental para estudantes que estão se preparando para disciplinas mais avançadas em matemática.
+  - [ ] Fundamentos2023
+  - [ ] Naive Set Theory
+  - [ ] Fundamentos de matemática
+   
 
 - [ ] **[Cálculo I (SMA0301)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0301&codcur=55030&codhab=100)**
   - **Livro**: *Um curso de cálculo, Volume 1* - Guidorizzi
