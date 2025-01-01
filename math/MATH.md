@@ -1,4 +1,4 @@
-### 1º 07/11/2024 - 07/5/2025
+### 1º - 01/5/2025
 
 - [ ] **[Fundamentos de Matemática (SMA0386)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0386&codcur=55030&codhab=100)**
   - [ ] Fundamentos2023
