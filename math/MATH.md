@@ -2,8 +2,7 @@
 
 - [ ] **[Fundamentos de Matemática (SMA0386)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0386&codcur=55030&codhab=100)**
   - [ ] Naive Set Theory
-  - [ ] Análise Real - vol 1 - Funções de uma Variável 
-  - [ ] Discrete mathematics and its applications (caps 1,2, 6, 8, 12, 13) (NOT USP BOOK)
+  - [ ] Discrete mathematics and its applications (caps 1,2, 8, 12, 13) (NOT USP BOOK)
    
 
 - [ ] **[Cálculo I (SMA0301)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0301&codcur=55030&codhab=100)**
