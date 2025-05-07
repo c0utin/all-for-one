@@ -17,7 +17,7 @@
 - [ ] The art of computer programming vol.1
 
 ## Projects
-- [ ] Blockchain (https://github.com/c0utin/laygochain)
+- [x] Blockchain (https://github.com/c0utin/laygochain)
 - [ ] Database
 - [ ] Neural network
 - [ ] OS
@@ -30,12 +30,12 @@
 - [ ] OS for smartphone
 - [ ] Browser
 - [ ] Torrent client
-- [ ] Messages w/my protocol
+- [x] Messages w/my protocol
 - [ ] Audio programming
-- [ ] Script arch-btw installation
+- [x] Script arch-btw installation (nix btw)
 - [x] CPU
-- [ ] pytorch in zig
-- [ ] Game
+- [ ] pytorch in real lang
+- [ ] Game engine
 
 ## Others
 - [ ] Vim nerd GIT 1
