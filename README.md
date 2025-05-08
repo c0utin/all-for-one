@@ -45,3 +45,6 @@
 - [x] Rust Action (BOOK)
 - [ ] Redes Gabriel torres (UDEMY)
 - [ ] bootdev go cryptography
+
+
+task todayrange rc.dateformat.report=H:N
