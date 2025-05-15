@@ -1,7 +1,7 @@
 ### 1º - 01/5/2025
 
-- [ ] **[Fundamentos de Matemática (SMA0386)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0386&codcur=55030&codhab=100)**
-  - [ ] Naive Set Theory
+- [x] **[Fundamentos de Matemática (SMA0386)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0386&codcur=55030&codhab=100)**
+  - [x] Naive Set Theory
   - [ ] Discrete mathematics and its applications (caps 1,2, 8, 12, 13) (NOT USP BOOK)
    
 
