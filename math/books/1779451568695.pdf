@@ -1,0 +1,921 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://quantum.cloud.ibm.com/learning)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 407.3583 185.6585 416.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Symbol /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 375.3583 204.416 384.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 364.3583 151.8935 373.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/delft-university-of-technology-the-quantum-internet-and-quantum-computers-how-will-they-change-the-world)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 321.3583 203.576 330.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/delft-university-of-technology-the-quantum-internet-and-quantum-computers-how-will-they-change-the-world)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 310.3583 203.1635 319.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/delft-university-of-technology-the-quantum-internet-and-quantum-computers-how-will-they-change-the-world)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 299.3583 206.081 308.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/delft-university-of-technology-the-quantum-internet-and-quantum-computers-how-will-they-change-the-world)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 288.3583 187.301 297.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/university-of-california-berkeley-quantum-mechanics-and-quantum-computation)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 256.3583 203.576 265.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/university-of-california-berkeley-quantum-mechanics-and-quantum-computation)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 245.3583 202.316 254.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/university-of-california-berkeley-quantum-mechanics-and-quantum-computation)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 234.3583 206.0735 243.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/university-of-california-berkeley-quantum-mechanics-and-quantum-computation)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 223.3583 93.54346 232.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://xpro.mit.edu)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 191.3583 118.5485 200.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nptel.ac.in/courses/106106232)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 159.3583 179.426 168.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/harvard-university-quantum-computing)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 127.3583 203.576 136.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/harvard-university-quantum-computing)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 116.3583 203.5685 125.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.edx.org/learn/quantum-computing/harvard-university-quantum-computing)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 105.3583 85.62346 114.3583 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Annots [ 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R ] /Contents 107 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coursera.org/learn/quantum-error-correction)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 738.2047 206.066 747.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coursera.org/learn/quantum-error-correction)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 727.2047 112.706 736.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coursera.org/learn/quantum-machine-learning)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 695.2047 204.401 704.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.coursera.org/learn/quantum-machine-learning)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 684.2047 120.6335 693.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.caltech.edu)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 641.2047 133.9685 650.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learn.microsoft.com/en-us/azure/quantum)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 609.2047 205.2485 618.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learn.microsoft.com/en-us/azure/quantum)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 598.2047 87.70096 607.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pennylane.ai/qml)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 566.2047 133.976 575.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.universidadesenaicimatec.edu.br)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 534.2047 205.241 543.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://vemprapuc.pucminas.br/computacao-quantica-online)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 491.2047 202.7435 500.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://vemprapuc.pucminas.br/computacao-quantica-online)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 480.2047 128.141 489.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://esr.rnp.br)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 448.2047 109.376 457.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107002173)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 307.1969 199.841 316.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9780521199568)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 264.1969 199.841 273.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/book/9783030832735)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 221.1969 208.601 230.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262526678)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 178.1969 188.591 187.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262539531)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 146.1969 188.591 155.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9780521879965)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 103.1969 199.841 112.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/Annots [ 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 
+  34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R ] /Contents 108 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/programming-quantum-computers/9781492039891)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 749.2047 208.9535 758.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/programming-quantum-computers/9781492039891)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 738.2047 206.936 747.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/programming-quantum-computers/9781492039891)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 727.2047 81.45346 736.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.penguinrandomhouse.com/books/314227/computing-with-quantum-cats-by-john-gribbin)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 695.2047 208.586 704.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.penguinrandomhouse.com/books/314227/computing-with-quantum-cats-by-john-gribbin)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 684.2047 205.2485 693.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.penguinrandomhouse.com/books/314227/computing-with-quantum-cats-by-john-gribbin)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 673.2047 126.881 682.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://com Python e Qiskit www.quati.tech/livro)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 559.1969 143.9735 568.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://com Python e Qiskit www.quati.tech/livro)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 548.1969 143.966 557.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://Computadores Qu\342nticos lncc.br/~portugal)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 516.1969 162.3185 525.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://Computadores Qu\342nticos lncc.br/~portugal)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 505.1969 132.9335 514.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sbmac.org.br)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 473.1969 139.376 482.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.google.com/view/efgalvao)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 430.1969 181.076 439.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cbpf.br)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 398.1969 118.541 407.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.clubedeautores.com.br/livro/computacao-quantica-2)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 366.1969 193.5635 375.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.clubedeautores.com.br/livro/computacao-quantica-2)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 355.1969 151.901 364.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.amazon.com.br)
+>> /Border [ 0 0 0 ] /Rect [ 77.28346 323.1969 147.296 332.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://medium.com/electronics-club-iitk)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 209.189 214.3949 218.189 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://towardsdatascience.com)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 177.189 188.1599 186.189 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://towardsdatascience.com)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 145.189 188.1599 154.189 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://towardsdatascience.com)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 102.189 188.1599 111.189 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://towardsdatascience.com)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 70.18898 188.1599 79.18898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/Annots [ 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 
+  53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 
+  63 0 R ] /Contents 109 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/abs/2504.00995)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 749.2047 190.2599 758.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kas.de/brasilien)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 717.2047 176.0624 726.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.alura.com.br/artigos/computacao-quantica)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 674.2047 259.8449 683.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.alura.com.br/artigos/computacao-quantica)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 663.2047 109.7999 672.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scielo.br)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 631.2047 151.8824 640.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scielo.br)
+>> /Border [ 0 0 0 ] /Rect [ 105.6299 588.2047 151.8824 597.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learning.quantum.ibm.com/catalog/textbook)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 474.1969 201.0886 483.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.caltech.edu/~preskill/ph229)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 442.1969 170.0386 451.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 399.1969 203.9911 408.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 388.1969 121.8736 397.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://quantumalgorithmzoo.org)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 356.1969 141.0586 365.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://q-ctrl.com/products/black-opal)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 324.1969 156.0511 333.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learn.qbraid.com)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 292.1969 111.8761 301.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://arxiv.org/list/quant-ph/recent)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 260.1969 150.6436 269.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://quantumzeitgeist.com/quantum-computing-books)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 228.1969 203.9986 237.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://quantumzeitgeist.com/quantum-computing-books)
+>> /Border [ 0 0 0 ] /Rect [ 56.02362 217.1969 71.86362 226.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/Annots [ 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 
+  75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R ] /Contents 110 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mitpress.mit.edu/9780262539531)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 702.0888 213.6338 711.4488 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://quantum.cloud.ibm.com/learning)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 668.0888 210.584 677.4488 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://medium.com/electronics-club-iitk)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 634.0888 210.9896 643.4488 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://sites.google.com/view/efgalvao)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 600.0888 205.8182 609.4488 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://link.springer.com/book/9783030832735)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 534.1676 234.4442 543.5276 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://nptel.ac.in/courses/106106232)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 500.1676 204.1022 509.5276 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://towardsdatascience.com)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 466.1676 183.7052 475.5276 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.quati.tech/livro)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 432.1676 167.2238 441.5276 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9781107002173)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 366.2463 225.3338 375.6063 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 332.2463 307.6862 341.6063 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://theory.caltech.edu/~preskill/ph229)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 298.2463 216.4496 307.6063 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.sbmac.org.br)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 264.2463 162.4502 273.6063 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.cambridge.org/9780521199568)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 198.325 225.3338 207.685 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 164.325 320.2442 173.685 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pennylane.ai/blog)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 130.325 159.0104 139.685 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lncc.br/~portugal)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 96.32504 155.75 105.685 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/Annots [ 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 
+  92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R ] /Contents 111 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.quati.tech/livro)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 746.8447 167.2238 756.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://vemprapuc.pucminas.br/computacao-quantica-online)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 712.8447 281.2442 722.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.alura.com.br/artigos/computacao-quantica)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 678.8447 262.5944 688.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.scielo.br)
+>> /Border [ 0 0 0 ] /Rect [ 97.87402 644.8447 145.9766 654.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/Annots [ 99 0 R 100 0 R 101 0 R 102 0 R ] /Contents 112 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+104 0 obj
+<<
+/PageMode /UseNone /Pages 106 0 R /Type /Catalog
+>>
+endobj
+105 0 obj
+<<
+/Author (Samura\355 Brito) /CreationDate (D:20260514131253+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260514131253+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Guia Completo de Recursos em Computa\347\343o Qu\342ntica 2026) /Trapped /False
+>>
+endobj
+106 0 obj
+<<
+/Count 6 /Kids [ 23 0 R 42 0 R 64 0 R 81 0 R 98 0 R 103 0 R ] /Type /Pages
+>>
+endobj
+107 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3386
+>>
+stream
+Gb!#^968iI'#*O1FOaDdBegGtJFC`o*QQ98.Sf!URE<8]KRtHrI+TQU-[XM'4q3V36^D9)iDcombG"uYIq\K+h#KjZ_LGP"7Oc-r.l_uPJMO`=!-O)"=)['alIkP\@_"e?*$Ec(!m_(f!g!.0aQ9`:#7$2#-a7E+6^Q`o*\`L3<p3p%!K6,U]G1W9>jN.[r+i@*#K$Z'@_;$2%rZuD$IJp&iWTds<hP5Oe-"\d6l7Di3/0?_UQ/&"gLI01+G"=%PS>I24KTmD[Ts\Ub.,XrY*nGT'`.EGahRadRIW<\;4a5bZ\3hM-(j@n53,-E(F;[]=VPqE$^dKPSpq(b0B.d\=QEU6$K1aqqc$#`.pRLVX64d5].Ie]aeWh4&`9M#ZL'km;NEO0_u>]JWb9>e=7Zc&+5Un<riCKV=ao9>B(b-:G3G(hmHM,G:7+>-95N3G=h'QH=cSPJHCQb7$335O\/s@IWh/KuZ*`"!Q6rB'aiIX8)RW8\Ya)ALiMY07CBRV]BPiJ>G\U.!5V,`pD/CD;%aVU)&)4;M0R6TjnPAcK-5!bFB]5!rWaq5.+Au^'l#;S>auY\(h_la26"4UT-jc$g.+S#p,RQq>U/*d5rn9A;<;;ek,s"ANA2n07P(5HKiqf8,;flcH\P<DU6m$XO#LKOj=rRjWq5K-[$:EE1X"C':o5/k&c2//W`ll#.d1(kJ6>%)#kKm(a"<fYd54\'05["nAP=r8$:Z=CTQ.0T;B.FS5WQ<5pK/jd`$)ZO(p>]+=mqbkp>aT!!&+-%;Er=W4Zqdo458rgu5Ri,aFJC4p%<T4j-umVJQGW(R\ZB;MM/1HCl>6pdV1cC&A)jn@gc6^fR+F;_WN?&*("5PX)"9A9<-r9E^7:08d1Q6dr;F4OkTA\EF5UAYHkT.(8@o*A<t`$mo(s>%I1rr7QT._OXN-I+KB8<$l#8^@'"T[KLtFmi*O"m^C9tV@RuLMkrh.(^ohZR*BZTZ`)B:(O.c_,nIG;"G0FL^U;To3TJ5Ys>=QD5S3dWK6r_c-eT&>77_uYQI27gED(KI?PT`#6E,c["I5(B.E5ukp>@5;Z0O`;/9<-8j!8*1dh&S^(7^ga970u?$l;60GT!C"MN.&n40Dt9WDKHj`DNbDL!o*Yj@A"Jhk+\c,bE0_ttE0#Oeqfe[Z4/.DO]Rh+A+(rTBPERPQR1bVO.*aW?.'0=dRj,fO/0u!3,P3hF.rCl*M7qK8AoEAM"AW@unf6)&WA##$LRWs`>[(EFjW(T(%MQ2VGQskjNlTe8PuS0p@_PeAdD.%PKp-&8@hl4?0eQ3R?Cb@$qEX]]'`BB)QcX1^khI>hC5XH%;l3R17&<p9'sTStQBIS7>c4MKQVqpsUdCVO0tCMo]KjXVV1>C7DlU.i1/WrZNZb<2\,]h?n9TZ599Lc**g:VLKc"*3J9?GX`s>mMb=\m.1J/.OY8fr8e8T3?0cAIT)[Y_]2DWbgf,<;.*KEYE%Zcnr2X=?`pi'WgJIVU58DpO65_GO&$r`90hB[N:=;4LpICsrWM;J5Tp?lb7U`Ttb[LR?/0Y1E!@iNF4Hl"oDOg'J7au]k2e^!k=fPE+TeQOY]&uWs@Xt=L4+0;?N5-9)bJCa<!4fg856WiMs1C@F$)s,_A,Vok;>p%tY:GNCGhC-_+,[!Rt__DDQVEk=#DVl6)E1j8BB[**%XCH9-f)#=bNCaE/^hAq-s4*BkK8,.a(Q3`$`2PptYJ[S^o3K+<*l9XtL=s$O_Q_>g#h3qCqtqg;SPh#\6X5Wi_CR4[(^":f'mmo+^Z.[[fUet]PAr9u)p^<_dQ<_,mmPU'+1+73++tmFB_YR"+_JR;C"K'B<Or(*#C95f_,?%O<Nk^%-`"2=p+'")r3g?]gN;*I0]Z^hBOfGuZ>#,J3aJFoTMSoc\%>X?@h5'?6@/.sVC^5:_V,^uNVZgDcQ9^@5#lBcRc1C,15iJMSM`Y$Eco]X'^PN.1dWXgCDY/g*N"AjNc2J%Q?ZV,,>jV*EtWsoeH*R-d`C:6@QV$Gi%VLlgT98$gK(^&\].k@)4%D#0q5f+G0O91o86==mcs)[@%C]IZ5n/4b0eH+VQ&I]lKf?J+u?=XR[W[K?s/@?EUbV5iB3`6M80X'>gDfKCjFd9qK'ki4P=&JJLVL+_TBf/0_:eD$teo@(i7jZ*7!b_s*@!6in3Z@]eY(5qW?0g8`PtiH$(+g\2'd<V?%H!map]?O%ajOVGX75]&6.8AX6mlc>bDt7WR5SfbM.arTeHPO/LFqF>%s#VfmQ9Np66qn1*D<_^M/JWl.%GLKVH="K*dBL?4>ZQW!I!e\ECn<tD:aS>T@FO*<ApX.PLsgZ(&SDE_nDIY+Ql$%aSaQhC"#S?N?GE7V_;^IQFq-b3L5\b<NVCI?K/lWCb]Sr7,V:9,q[6WJ.%A"#'JV2/1KK]:%Z>RBJ;Q\Vr<\3W:>fmGgp/nE_GR'-#Wl$\Ma!2]U\7OrQnTdARY17@SC)]X2M`a!qD=)+I3pP\k14[R)#RT0M&WuI0a!lSbE9n7K&7t__?DW`3Hj\d,"8PIgnOUif3P.pu-$Ban<(ItTcYc5;sY!:_S&ZBn]NNq"dcLs\?8^?Z3,^9/ijODVhENcAPoq'%qF.mgi7g2f)Q_ud)]KUBUNTifj7m)VE3>UV%qF/JD,!gtCk]U[IR+-ZB_"96+[.nj.RCWX#^[7'TknIG^R,PQoYns[co-GEg;k^B5W/UI!!63K9!5HQQqDst>J1nPHqT(Noo2Z+J07YFH5#`?6n'J1[<C>sTeq!j7.j4S+2MZCUh6Et4^OM>*i9ruH7=F<J.V,M3^RP"I5aq\$,BHdin%kUCXC`fb#?OCDq#mjZVYbk8/mkU/Di\tYGfp@).MGVc>pB:QR96K$YUEO6gW4W`49o,K?Hq9\7I2:\DiJ9Bmr@c_g[>_LQ;g9Q(T7<$h`^qdm-bJH9m0HmK^af9=gooh4T(8:bi;)0c%7b4d5dgl?JlIB?CjC,Vt!`e;l+9L]UDpV0<88;NM_%%X_7OmM4`[NH=l@9kJc*d>b&Gk_:LUnmtPq!WO-Fq>kOqZED5?[6(n_r6>uYPP9"d"qc_gPX/*q&Is?aYipr,QH%1mbf"ERPpGp_DbPo9.\3BAnV]/A#!F*._F<7`_)sp&e]o85/@A^oSD66lfnQ]H*FMfD[e'%1V%[/^(j_*d6nYSHTF._gbgIlW\>@GC`!OH'[ThN[iZF\X^]:2FcW,@mFA[BqaV!V^[)U[k^5$%Epr=ShW2IQX7Do,#nV!`VW:$U+_WJfS=PBq&7E!cA81h`A1_+]Ik[QB$&)K^ornO60QIH]fd4fd_6C2Y3*G%T>bmIb_qcta/^g3n+UH0Eu0::7.%p@c>0Du[*C1J>@5m.D/!i7[#%]T0H~>endstream
+endobj
+108 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4016
+>>
+stream
+Gb!#_D0+Gi')nJ0Yqqs8W+ep=i;<>fSYA/*GAP=.gs"T5^VCOoUZRI9P'5;]Ig]/%OX3VaJu4lnAV0ufMo@m4?0mH!M>p0C)9)[FDrLHn!CGag%`C8A\35VrgG`Kr(oH?je-:ObY4#P%:uA+@"7kDFJhR"c(q+?dhuo'kcX!3@@@Mh-,<3p)WqXcR#K+AD!QEr^qR?10D`HBfH*:R^1?L'Hk27,[^Z;Jad)Af?K&KSf0MiGC4(Plc@U"S$\J,AGL@:Kh9+7REM[RYp/B<>9;WK:B*HaMqXF)WAf_rQ+@O<9D9]N_Q1h-3YA@!!"6^D:-bAd`TKS%%!_qDO@q3al1(Entr:Qq;]^rfFm;e5,gE;M`P^+EEj?*`TY,'A:bn3#\Zg&Ar7FUa5Ckl6c5bEYroe@PQIL\o'@?'T&iVWW:VX1GmKD":s6mEi@49[k^U`%]_TYV"=sVX5OmG!j8i?*FFST[^I/#YA%N6516\(u+J;EU8#7E>Qg+">2Hf'EZUg^#gmbR%:^&CX^KA\_JlNf?C,*F(XEpc5;HLS!hW2kKLYe!6[?>_b4UPFk,?8-_=J4GdKL"R_?['#cdi>Gj4E"c>P[78P4\8J(Cr.L1Ato*uo;_K@(4;mMr?PPcE55-An8T"LsHol.Qi&mlB6fm\GqI$HI*<P,F%geM1hj&D'4=oaY:h+bo:d\FUFCB1\DI]F]lC%tCYbW^j)lf0s,Y-*RmAK;),NLqJV+96DjMo;EtMd_AQ6%h.>C_4folK6Vt'lpI)J$h&8@dC$%UNM0,YV<`A\*>#8Xp+JPOfp@:L`)lifaQ'^-^HTJ14F$E8BJp.deO`7#Y;K(VRM4+g651dlJ*"W(W9,pU.UoG7]%*%q4ImelZNR&h!Y%I._l8m"KLmX>%s*j[E&YB+o_DG1bD;V:\bi@BG$%dN"sK:&*AFSclitA:4js_[fjA&lctjkq\7A&Y+-%SkA9.UE,'q0Bd;mNq`_kBMn!-1s1ZIdLE+8Q5r*u0Z6l_MeBU1bEledO'A_OTk%.1?Zq+O)G8<NVpDBPg9p.*6oXNC?R[d_^7F./"(3)!iphadSI=NE9\FW!:s3I>1JEiO!@jiIPgfp\97#%5`M)_adQDnt-3$QhgSiEUq#,S-?k'sk-`Q6LDbFU;nR(W@%o'=rWKi&6kaI%j2LYVfRh]c1DV2L55E&nOkdD;G^SI:R,4^"nZ#I7-l;"ij^f&q@4,Ki#%k,2tTb*lIZiq)2bd6k^f`)uqQHcjd*soT3N9ob_<YpIL[+Jg\)9KK:"g08f[(e?LFbiM45%`;hH''BZ)73rh+k8F?^$D.Kj&_Z4I?WN#3JRQdV>*IO+91RDd6((nR1'lmOaj(1X&`AocpBU"@`Lq3[\"]N^P$F[8mcm$1V$VJKXBFtZ?2*pOQcXE7uRI_</+LGPSB-C?iVEIaTRN`slThMe7Su^%oA"FYTfeHFS<^s/J?`dP`O#)3I]r9Va9_3/7kp(VB#X#TD(Yk!.I7/kfJ&KguFh820G-"gYV:dr?ro%/Kq3@Ck![3olREa<Wi6ap2EPMO(l<l]bJ49bDc*B8.X^:s45eH#Io(AM!%CXd6o*^W.CgW8Ue4^J"A2&$$-&r1;aP,)Fl/1CuY_:8YNmH=YCB0suYu/J?`Z:m.g9QI$iC6P6*pitaII$nU=j15Nq#i.H_bl/KGDOn?.=D9YVt:R6XiVLC;T(]@-&Z6Hm2U-hf[JR+AnM4_XI@B'#O>Asnlk@[kBi6FJm<@q@!<0&2gX<D3_Z[eEAEG?TJMaf)4U/T-O^GObg?Ag?Dhcr#Cr6/)8u1Ql_g*01RO\<N,MK>"5p5>nG]m@qIgE25o]LmG,X9e3L<GY-Xi]>',IQPbsGRUlj0`MXOpni^D,=t(uU)B=pj^Eb=)A=msr*Lj0/]sp>6,1H55?*g/bId#IE#&JUU38Z*[Y\!;Mu&$cs/QB])Z;&sa\OO2HiOaO6j7[k1lkUi_j0Pd]T*gGA-ZfC7ZEE1qO2%;BZ9pIDU)jUM@!'Bm=)UlYr/:5CMT`9E6(Ue99GMsO$r-h*Wq\OtkiDTP5BF-1#@pgRGA\Yi*+"i/F@BR)PUV?\!q%n/6`b$@T^eFrn8Q=nX-a^U?7V0dq^^%utpGm26-3kZDO$`Yqq/=kar?TdBro_[?@<u:e;(j`b+/La"YH"A?W:W(U&>J&`p89Gj4h5d$mI;)-\O;j8$?h*=R2hkB\cr$&Z`?"sOWT@6$oC7fK_+R_5&@_IWeVmniPUaVp+n[XtH@e<1PP2t9n:l4W8*3En1P<6l@D3r#i=/DJI(C6D2B/+'2=#@n)UUI4&_&"I,.a;>Bso76]?V.X,FW4#_QrMhX/e^sc&TG9iC7GlWnDLIhF\SBRkAbnl)Im1WEP6UQYJEa1g'"ZB&2RPCpMshB3X1%CqUId\K]sD$Q=kj/)kETW0X?l,2BWAQDV2:g8;WIV7@f&AUdM3&#qLh[<f1I>ed^H`3:4#?aYaJ/b<rgnQ_tDQZAQNT+u=SaDOrLUUMqV08@hs0(;h#6*#m`fc;.&b*o>(ij*G&lAMAlQL-p(>!>[8^]g"s[6)0IQ334<1LPF?'"S`9U#W^MVlXNM+UrU>)bd&/g./odO6X6E6XB-\,7I,gcT^66RKB)P*h6NmT&*_4-YK&*L7@lYA\D;S+(RuBRame[\(ag#12qlt@Vj3$!a#'l_o,+%?t\0EpF=H,3jZ+p]4T%tmU,Y[c,Eg[-Mok@B,sMZOltd%_345sGa@[7=Y!u?\8IlM-k6buJY4dqN`ED>0(MuuU!L5"LahYa<ed[`_'XmUTY3=L!u&@Jdrh=e/8M)3SU>r'"sraJjDF1-p"l=d"A42eWHYr*I67>\`,GOQYgdl`e?;aV?O@8TQiCkZ?tIQZPd\;2+ZUfYqQB)Ojb60,aMj=q>%uGg1/DK*RS'Woe)0]/'XJ$N<h0Ab:Pe8'-7,7k-%)_XTM?,<MAkd1Os-m>'KjN_!^FQ_&Js),f$^;]qrYj:eEPGq8M0d6A_r^kM\^X8=Eq"ZTDJlrX&-pR[5"If-h+HR5!^Uf:0_qi0UX-6%kLf6Qr9/'=Q`9ictSCmJkn\*P9shT6lhg)8?*KG)H6%(0G_b49LTT&>HX-?TbMdWG=HNrH;0/-&d7EEm7+:nV"6E:o,PbDVFe4mi3U8&c5c_AX,e1.)O5.aDYm5Q#.GLR\E0^$%8g2clFICQL:N+>R=dcs`_<%.<AB_)B\;G_T#GaX34cc*j]`DdqN@-LV$"1lP?NGR2#dU:"NH?g,l"Gm*F>D'=ni8H,C69#*^2CRYF^d$`AOrT6n2H-'f,MtqP4[<R?m)Ae?bYGLt.g+rfr15n;@>I(,I;P%R@*Rb/4gl:C!dj_08Q1q^\gQ_!9t<L?"kHKW;WG5]iSA0OYk``aY7+5Zh(5M"XSd`;eb(OXm)6BQ+$FY>=&lp%[!\)eSih?M89!h7ks-%"7`N6m6s=8`&$V/"MgeX9]>VEat4b,gS4Js%qtRdRmCROc17hZ'$&A$4cTGDZl]YH%\BL<>r-?!MIoMUOtkAD]MB``a>7l_Nba]f1HMQSOO*6oS?<W8pN[e>JtYr!#A6`QqWQ:gIPh=TdMp'rbtnu;!C17/@J^'IFF+fgXCZEDpOLeP[I_i86&gckqeZ5e,>Kj^$r</a6MRM#%$"o3-g`4KD/UtWqJ.(N@o(4#Ln%MnCk?T@o%@BJ+odjQTbnVLmLNce&P^jg%$'gJ#(bS12sf#mW**f&:t<2:GLl\Wk]Ej1j@^&inAF<mVZu\q?igkBQ%4+'i24um`4l[$sB_dkjuJ1E/1rb6PB'Ebh7JKP0UD3YOH&.Xp^O@72Um_VG190pf/*BiFRh#WJua/+edTX>dPQL2@`Kg>S_U9aI7rgA*:]7Z*pVkV,fjIWIQ[M<AaAC8TL*Tl/lL3i)N+VIBklhrVDK_l#-Ia?kdpr$_):*kB)'TF\k-/>nh9m[J<f`GhHd-<M;s?OX_BaCioN%[o2*5*P?3qrKc9-^M23r]@4SZZE<\MnE,3$CSL1~>endstream
+endobj
+109 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4342
+>>
+stream
+Gb!#`>Beg[&q801QuhtkXkL02'"g.6?29et[Hj<F^A%kp?l9DF35!>%54!4F!@`VrFdLKlRhNgf#+35750O1</MQ^U<W8N,!66<$S6KA5(d3K4(_2KWiGA/Sb<*U`K7Gph=KWHb2Ad_/M!mYkH^A.'J67O>Qo;IJCZ'OMLhSh\kTC%]`ueiA1CV'<OXMLMY:]cYl5gcp[bLfImL-in.FBC8L)2Bd;Zh@@e+1<D#tc&WJ[(9DR%NKmL1tu;)$NLfRQ*nJ]mCY6.=JF+(QMFc$\/KAq#FRnT$QWqhm8^@aI%dnDEEd?=JU$g5ea$s`j6XT+N]:8Qnl/ges)e/argG4VXQ!sS7Ot/T1Dmkid2O@!M^aZ)/Rm*H&tYS^b^Aqntg7(@[26D_10P`8>G:j#l&FHJ[48-l>"Yf2b_[2r6DB]*c/lc).9pug`e*1:9J/qUf<&'h+YjZ/8^0$AXhV2[R!Gl6Q]H2b@4$l'TF!;BO%HAH!J=//tn';,)=P>*+/A*\eUd[;VGls--4=Dj?u:=9a<5mY,7kFBrMB72I*5J;TJ@[H5,+Q*=#:C8OcYBrM*Cp^Y;S"YH:$@>'!'$a+8UY(GQp7iI^MET;M_pE64<i8q\hAOpIB:)kiMc5S5R!YQEFZ72QfN80<./Hh^o=cm;gqJn#[)8A^!*0TEk&4a/'cD\@_E(,bG?mE=i`b93a72m@K3mPkUJB2_3J9&&-*btHi/kABL.!X[Jo>B%=h.=<Q]6nJ;9Z%*>/OpE\uj;5<p*92KXi+?\+J]'4Xhj/r#CLJb?N$X2Bq42qCV5:e4`N)(n=,g;ke!f?DM/]VsR&)X"Gqt$,!dDR,L(b.`(HG-p;NR2p;CDWilk:0D]A0"Yc,)EqYT3#kji%c[j&,GKDUF)mO&MKr*R$Nj)*HN@b#.7s]k#^o;Xs*LC7^()%kL+1m]o,\CSGIDeVSmL2Z<Y"SrtW@$*YC_A?9-t)KOOk?R-W)(4)hM4DUI$j*CUZ?+FA,hlUiL?\P`"g5iH!XCJoI4EU=XO+2!Ic`-Q$3P+G&Qf"D6H3C]>qoj+X)X3ffJS"X\6!^\s9puB3^nE@t<fiLfI,Xm"K1).M"N"f;bR0r;1ms6r8JE$mnMh<DF#I_$B3Pihra8V[mn;dP,a!@Zl$`K;rs&V#5>1fsb`hF=e@#i"O76Qc>6RLUlS?g52"hu:;a*,YVn=(Bg*T$X-;Wic&=h$hE9`qi.A%F(XG+n*B8MSJ>o>r'B:Q=&OKhoe-Die]'muWV7]1?^^q\gb5Md9,)0qt0g/9X&2^#PE_qg)lL(,dc^5\UI<'EcjYJT"<5uPHRX#J[/]kKNn`%/i)YI],2#\LR)2>\+O0FM.hU*W8"W-DJe=Tg3#7J!H+0ZI55ERbokZ(\tgX9u?b$MC>GCo>1IH#2^Qj8.=HnEJI;bg$@@'U?UK8,Pg[[Cg*Apnk`jf'J3qg6JaO8+8tERN)a\L=B81H>RP,HO7m">mIuf/rG0[-um]_^j(>p5TE4s2(,^:\0b\-_fWA+PC557D"(Lc'Yj8e61%Al66Dm2E1ppuE-_!<meS!MY2JI=DY3J:`s:?CpZpeI<fK!3V"W>4bUk<_Ut5sen?iU'>&.?6,1s%be(U8A&jJK$XX30aRpM,g11<XZ\q4P;aHkYJa'Oseql=D=N9kI!fd<c>h'6,OaS,XrXWP\E0RVb)!Goj.]/7\SMJF/^Kus7D,$;;4H\(G!L2=OjZE+2a<P76th-1#)k_HPGbK5(.I@7^.LaCoogb$DNXErh[*_5*@)W'l4j\Wo+%7`mh#P*%d_[.pL?8+U_<.JGXY./]1=(DQSh(s%S+![bTFDu-4C._e;mFD)n\HK03?.m.bP,Dbm1sm9A1u[Nh7i3tCEnX-`DH+ohDk8+N[%"8pP>%2WBpor?jrg$\jP7i0jCo/sOKQnH'HB8?;q-d%e*$iSHH16!K(U%8g=XQ,_0@*@_ZaF^]V0FD,>b!i?Gt0W(h[;sF*b"?@HTL]E9Z_Wi"L=*6k?_#:a#m4ef_:(CJqm.$"q1s!=V\9e3C[2Dj8V6/\Qq0+Ut<Qfs=4jG(ddJT:T_TR>>OE0TB[Xe9NT#TQ?PmX/AmYD(#uuiL];eHF4F"Rt)6TM?%E4n$NH1T1,(;M#I\'Q'NlR([Y4R!qhF?#.JVg+URQTNLG2k179!>FRWYJ>fDXkgB"Kt*U[$]?3kFTn]$glo!agH?$66)e@#bO#(DQ<8'D&fEF/.S'B@S,nGMHY4P6A/KmdN[Do_hljW]t$J1h)PUt*8I`b&U.i&IPNO5;Bq:K`fmPG]Z#OGZ%kO5QVMd^(?RA!SHEc?Re;7/u>X&b)ekfPs$SYjT*6ZtsNt]"=ti=L6lmlQ9UDl^[qtottScdto6r)$5*h(d!a1];b=I"IF3_dNc0t-T%CCkXdULY3;[;k_=uQ!n`h%I;<6V1V#BY^-B=MmKRBRU>3"DQE$/A8L3?9/Ao9n4]$7`V-@P^=O13J^E.]GP^clDS53%XIhQRRY*a$RfsGm>9QU=*\i_s:Oj;r#XYoReCXSjK"_G\pQ5MJ%Al2RN09=W8,=5s:G6k>$']3d5B5)s#Q[j,Z4s9T?DCs?8G^_idrm.?1V`QkDNFEo+Xfq9+e,!91AR:9C]HtKDcHok55N,L@d!*=-5,H>,cfOg5T$Zge?t]b*Z<E>iDHKplTN\Jl^o+7K3'CcU%?i!t,/_2W6QD0OjRXo;75A`!nf'8&m[6YJKs800_SN8-q&fg4ggW<kOZ^dl`_,S=i_Lr^kJs,ukt^j&aV(d3l`(@h/a5Dm0jQG19T2c-DpERBVm[o,eTKI7s3!OfQAI+'l4]u=_gkMG<;OpcEPO/)@!%thS+E_FQBfkBm1H]<>6Yb4:?5Y<jgD7o'ZSmf3*TU]]#dgDW=kE)M\Xt_F\sl*\>dSU%_X6i>iqqq2.A7R:;JIS'.U#GDrfV"gQAL1f=t.R_Bk7E*LCrsW/]mKpIl?IeAlUg(dTe;G5+)o;WD4+iK?+MQ*Nt!WQmpX,?:C'\k&GaZ=^!OQOt]bTE=mhD94'`)d`NlkN[MLaqPc]YbaJQ&EM6+r[F!6ic^,QF_U;:`]E@;$b.X[#u=Y;nJr7\D\"@(f$05/ptTn._c$$:3&kb!/6s!a'*S0k8.*KnZG@>"Uh6>Mqd=rB;`)'7:XL&ol,&6=3Gol9bJu1N3N>.c%H6Rk+mjjAa`FLS5,or_6b<XHeV+T7GPb8>5,oqkm+tJD>LuRHmSsHu2>J7nI`':q0XAg?>91u,/17BH=Pi>A+.@@^KdBWsma^d.<hGUG?+)A7Dd%#4W=5rBd8<-XmFuQ$XASfIlNjr`<M)@S]?rol7hPYnDfdrm]Gk.(\A!_'6@?:(42(E6"ToTIs$"(W]nb(qBF+>[(MCLRSDif)#j!#]p)kFE@):9&%mMmeh_YH)ChsTMb4\<l&tGpG:H3@\[GN[ZBL'u3FX9EJg2J?JR:_4))9_"j?--1iGE46lWY#345G0upYNm(?j1+ck"2ct94oY,FN%WLu/:[_e*uZ.LK1-1W6.?\b2\F;KRDZKe7C4ID.)E)N^,]0gY(:2ZP]/7D@'\[,>P?11B/l2q+$=a?H>c`1^*$_LQ\*3$`sZ11Q1:oX+DC^JrPm(Ho7FI7NnmJHjS`f9[!m\#`=(`.NXHn&Td`IgT'RE?`b`eU\?*3GLeTQY`Y^ApbKR9<H2`);Coco*?NpGg@KaHojLIfickHgZ#ra9G2J[_]S/9;S3ebn?d*Tcpc^J>]H2:1?eo;d;?a48Q?_`eL+M9_&VW1?<`TGU*^&s/`[=c6R^u>$cYAjLe$FKE^)'"S4M5?,K#Ym'pKr`D1cPgio6ITX,`>pe!f=iWoM8KghY-2_+W^MA9g*?j8qb!4r9O485[o\nd0Lp2Y1D[HZ\hWu<i=>R`:SJMJ&YE\KA$'e1FN]X[D1u5A]63G?`Co6W-33/Ub?8JcZ(FjOWeP"\jKSZeI].td.gj&9_"GfHf&\^=WkG">^\3j`)7dc@I4?:`Q>r$`^6b7'.p).XC94T=I`gZR=jA,(Q60P,*'sIsbi\\4=<.W/`I!(IG,W+?X2;TqhDJ>dQ`e2RH$-Ejc9A.B^-gtU:UF']f=LFhOr6oaA-%!dfV0m4hr0Mo>MXQ1Vi3dV.A&C);(tbc4[&`r"(gEJb.b7eSSp<&I=XDD?d5d]m8h=djj1J*_'>jsGJ?N;U+nQmVne\(P\#.njAkI']Xbr1>MS%_;]SsUQ/\Y@,9ON$hr]nB1,nl>;8'!nedX,Z\uKJTU8s`K._9cG;FS'4fM^+6,e&Bjs4^G[X,!RCGbhXYZ@Di"[+h0PXaO?[XWQj%*PTEqXe;\q#k.`t2(`*B~>endstream
+endobj
+110 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3541
+>>
+stream
+Gb!#^=``=W&q801kc0%Jc"'5)i&uPAQ*6E.:4+MDXXV$#'I@0]&i*#38KRT7DhA`idMAt&gmrR;Q9d?Ym`*j+A:T^?N8f$m!ut'DFD?=l?nqi%dO^cU_o^uq_`LT%4c`^<)7JQc->:>=LhhX1^J"'-Nu4>IkpG&sXl4=+LosmlD]qOTZX;ej]'k2^,EYdke!*'M?M?8qk=t^HlRTspajCN%c1+i)W<F=?D)e3!"?H,9_YB.rP0^@+9fF)E)gRlblaTOqK,Y`lK&2s)%>TOH*8m,B/jNT&B6/CnO*OE%U]il`k"[+H`s&#SO:Q&oZ8BH68.mT`dh'gE($4%DYSdhIJ/M.g0EkYX7[cI$5JuPXR/BiQn@E6)]i8`nNomp-.s:_r<iMi+r#l#0)D*3Zi(COBL#Hol25P=N?$AH@-.V+ZBc1t$XMu;_BG8ohY-47rY'XQg\jgeb79eJ^15%VpR1Adr>;4!tb%!.O(Q&EZ>18iRNJ=?5aPo;&/FMH.Nod:M%$rg-ZHRGA)oQ)RZXIFkfsi_">sk>&W[`-sGSn-`0LY`'8s_HYm$IQIb;RWNf@Oha.)c515H@dXc*f1A/!<T'0_ejp<l=W!EHKIC,C%YFO.u'QYDn9K=U=eChm(8TSAPWX=`U]jBG8);_=5^d8GD5^+I_E7pIcP[,F[!t(GSnuZmjQS_(C5MYOZN>@A9!*aobu9^GYapCXYQ[A@UdYZ5X]C2;P6BVh2cQ*l`]5AT(GY@))uao.#Z@nAb](D]#(Q>_7I=i5MdB0bc9qjCR8V4N(Ej)=GX1ZrT"aig&gdK^<:WYm-h&_I=G"=cs(Tc%CuF"OQOB*>OMi(mI^.L1.[3#0e\]'5/Fr_Y/nqW;+@R2(n#9HC'WtL.HE>^2J3&UbLPqp8Ia&H\D._.@d\+IRTMPYUWXj]<bpgD1-OPUCW-I:W%uu8?$bSi8\C?@8+"4r,;.$[M4gMAF!._\Y(Y]7tH5oB'Rk@8_V8l!nt#)j+,cf*4XNWUJpd;<:V#=jmsL,?a1;=<I1s8UT<;13)&RqEE"/f/@ijmKMC\f9R!n/Vl(p0Su13u*8LpiZA=4V(04<>o6*t.5/+l.EeM)`KI[lJ`mZW8Gpp,*S,R[.b0n-V+A=RWA_q%C0ge$Q1s@4W'mHLS67-q9E,,jHO22@JfJDPj$9hseB(CV\f<!%PqD'8`Y;;nFLp`c@CdV]'p`kK\OSLiQ8@t,F()7a@.H^D6P4<tEM+1SfaI5B+'-g[k;!DZTGQZ*D%ln7u/1?f:Nf\-eE'!4k6Y"4Z*(G=Y0Q]CdS.#q3Dh$W\gA5=?1f(!FQIF_FagknaqQ")iB#2Hin3QQa&3iCOh-=f*B`7IEQ7slBMLqof225TQ@lTeiP[L]I^(&YRBgfG@q1"sGfm\Do$`dI"?s.lrdX.9g%8:$:5!1j]a268T@:"TK[FoM(]r,u?-=A4a(Ds.de$%IsV7O-'n`\PGbc*/29%=qi&c0RHbbFA>^kMDdi>08.5JB;e3mD#DP(Q]d0M+!8NfLPB2Jq)$6?ZRkU&TfqT$pmq'[=0r=cE14<K=X8119$*p6>Qs#"3W.s8+RE8ssT&l>`2(Bs@@IY"g>UW_.*3TORbN<WcuiT?sHKZpfZ4NN$RAK;[s=8jcC0F*/m`[0G4?mN_`2o:>"Zm4CG2;f[G]*\hLFY!9SJ9R'J&\[ZNga^G<2W[emh8?-<Kq#k?Q-hWB$nX=UM,J>t<<m]S7qQoS@]KltVb*!J3;!j+IHIZ\l'_P:"&;O5UTOJ?f<"u3><"0d<;%FW"O<)CHMfPbnLu4Z<@5[/S2"&o;=_;^V8'g8H>LG!L..QqqXL5bliUiG3C0lao\)^f=GP%(26_o=\qLcA*m`Q%KVt!dAd5?N;PSV^nYj@6tG`#m=J(Z(i]/[7Zpl3kper<e%=P'Kl$d\0>Slse0%'#=.%!3Gk:QE.ohd"sPq"X4>m,IX3lirJG@!k-U_pt+Dq:Y<5pnZY$41/60VE>85R(bk]L^M%Dr9"te!aYNo&N.-DfW7r7ej;#cn-h?>p7C07fsYBdCj4]>m?KCeeMN)[/aib"N@Pt15!0e\AtE:TO+l[)JpM.7)[,'PVitqjK-6a5c!>LUYJVJ!l&/SkS*FQ#i0]sK@9Kuc'?&CJXHfk%',.gU46c.CQ\g7WC6k^nqeg97.%4$+n;kIDUCXo8jbBo%2$k]md(Y[R<PgX#^L_VZho"g]'96(p]gLWlKiB<KR;57k+HJC'(X"GK.%hHsC4;DL2X&HNe7kZ;mjG(rB9.X3;&Ic@4a*auol9]5pJ=A`VjjWea]"<tAN@s/!IW+XhiSrSbd1-G""X.b#l[L5m>iD`&*+I@fkpcs[*H&C,>D^WKp@oQUia0B3d@$<?h!j3(C=>UnTN6Qkbf-?_][.M91]%\"NqC:Z7oDI%[_&EEq*ECb4i;_RZIH]>jX=N/dV!V5`2sZgTV>?-k:+ZR!':H2-.pAX7o\Q!"Q>8@ER\k)?bZ^*.D'/';RXg-DnWRT4E@5$\c1!cU+%d$S5s7Q5KJ<@X8#q+ofjQQKs&K&PKuBC0\Y^=!,S4C1kb<3h*q(d6GI`o<uh?n7j8*/@qVG)p>rGc6`]+G(gG;T!Xkr"`=C%_';WDc4K^hY&lQ1MQQ/-VVH8qU2Drc;)BPE?&l[O0n%*6`!21F938>4^j=bH;S0Sp6$uZiHdu%)dtbU"fqA9a?l;2)H%pd'_G.hP%)u99,j!i@08L[ml7F-\TX*i</7SC,n(d/6JUgd:r8:gd\8FKJ_qqZOe#d[p3-C1.*&^ok3cV"9*ZB*Zm7UC!3.uh?UCmAH^B0'ba>cX&OO9m71_5S3:?,qE=bHgF^=lRFN8Ck'_h\NkE3Z2N`gEgcdH(0%p?0khI(oB%JYka"SM;i-1/WE>C:#O1nC,dUgh4]pYI%AGBGeE?n6^W[A>$5mme`:g-N.q9WI8$YE:X@]rfO$;ALT0D1/3Nd3<01S-G^>7o'33a+>:G4L2[cb9.25T"#uD#@OGO&YCOUX/OaqE'U2<bE',+@.H[eDX7gK[Q]^di$jEiDaT"^ToZ,$SR=@mtl2)\fiqMr\VXlL*Ipn']!]_:B.t,Or>^hG>6NuTu>\*%u,`#\<AS`5A]Z*W3jGAflD=4.T%YXC7/VWL4/f4D7.jne?2QE&\M(h2^DoT_uGA>r(E?-ZWb-Ee-X6hEFaG2m4)%3l$AbtHM;Por'E%1;?dJ.:_..<-=QHl4(ON\]]1_""s)O5ROQ#VR+$S$Zb0X848hL+5Op3ZE]QhVe9fc7&ne]#HC"DUUB\'eL%e(umope`VI"I3TYR:fV0&+AfM;jMaaPeOh2^1g%[aO*bln05P_9D%riaeB_O6'M1BH3kH@=ES%(CYH@]/T-M$k6qqIOtNNWU8.G9r\?c_%cb.$-&8TLIl3oa]2,@3)^HF3aj+C+8e0C9mC&m2W2:,#bpaX`:&GdUEi>kZem<BqVY&GGE`c&HXfYk*=b"2T;#Pg[p.>T+rVL>+b=kT-@\r;G=+b7:MuNX#NHKE.M6<1P`%S^DnErM8UM0K~>endstream
+endobj
+111 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2427
+>>
+stream
+Gb"/)93^F9(>\R4mV83Yq4^uSj[X6$+;MJeJ`;r`hQTisOf6F-Jo&?/RGZk&EpP&.JRYX:YFC*)"PLB7e[_k.)%$DYW;k*(!;e#)+&JU=7TViB'#Ni<L81=**>4/R@3H13U*S_`=;%l@J=Z*B.%Dt`_Be%^;F0eu"=t[(OG;CT_:;=V5"H>0!^!4e^Ua7;K6T]chWOEWnYK]We*%-J&g^2q\cF&RU_/]UTn]Nc(hMoOI5L"1i"<k`&sA%N8"%9_Kq-aq??.2shs/>a>d>a^./e9OQ/d?hk>LIg1\:=s0UH9Zjhu\].*GMT'op(e9M:a$38A:rr``NRV))iEaqU*j62FCD;jZW:(k%"`:OWJ.,9-PVOGY;-ED0ktm<=:A+q26=T*S</1'Y!f=46p6G.?+)'pBbrPB^S;VjBNA;Z^EFN\cWN<[\Z8M\*pdUQD]&N%pWi%N3Ol*Kc-`U$Z9`YtErpCm=La)#-p<>p+<Z#-aV19mq3p25]5p%Kf>:\:<0\lin%1:6&+XGVM0<qK7#m-ZD6hHp#/'J\gi'FL&0gArZ9LrFm3skJ-A&\6V/\I'oUIEk(U+X90b^$^?GRV$V8Pf[9d66C9%m405)eES'1GM<ogP=<WZ`k9D!)e$M)P6LLD_K=s00s+#$pG7+rKrGK5d=D2euFCa#CQR8mdo7.:=WAnB5iDd2LO>r6H=TL/_QD1.J]5_iJV:!bJBN1c[)6>1J+c/2e3Hc970R2+fY$C=Z(h6rgR*/+HSaTYJK"R3L2I\\/XbOO6&NYX7gV'q^8GTjI0H#/Bq.65u.0`UB>I.2@DE$0n^>WbP"sX2&*X@?WY!KQ&lOR*OXYH"s,9?"fCOY,T(Vtp#.4X#q[P9&Y;=>\](6?,J1%D#K#k42feAZ&-ZsOXT,5$M5<hiI?Eu:;?U98Sm`LLRLGbaVr.24*s(;jNlFU@rf(,KYPQ.O>2\3&<m_Q'mep]jZ[\t?u6^`k+M.QH7q%[U)goAILVn,QdIg6V+W]3bVE471Y[G.<#1/TsWVg;6/=dFsrNf-Qfbmf$XGR%fd[;lm48DJkUg2t_jfn_DZpI_Hfe1$j/]/[4!9Q(C/I]QW0#iH-oL%=3eb,P[TV(:@Fh1H!R&K9+/T<`t'cXR'MD4mm#iI=;SUnL^t+*VK+fW6W-X.e0X&3e?T8UQ>kp"A?>ULi71X^$qL+/nt<[!H2WZ<?`CY7HQO'T?H&O#7$S[Y-9H7;Ah5IAst62k`&WPI<@D9&c#6p=I/&#,lm6dY3NI=UMH^Z2-k4Y;R>-$_-4me/mAOS!Sb,<c1VqDb-a=`C2[pgeI<;&`c@8cNHVV*Gf\pn>7$-WYXl&Zg<)@-8@oAq[Td%tcVHOWWDXHi-GNCkX=/K6BSF0(<h=-B6QTRJ(]e'$.8SBXJ/js#!0WH1P"0noVq;![a>&^Di/.ZCrIo)+8Z-3>F.B.B8BA`\1#HZcQWJj4@BY3p"^4>hgp]-rRl+@:=$;]>DO&Xj?$n!\_P3:#5,XC"q<YTs%sX1T(3B#G\]BQTd1AD:g3G4s<gN6!E!4.t279`iooe`im>=?/E[!<6Mgf87DcQLF&E,;&lub+Fhe%)"HS>\1ABT'o_SsaKq#goM]"O6*.l\KL^oGU1P2:526D]mfI+`ndPiJu5Ji0N/49IeM(nCD3PLI-YAdZbKB=e#BX2`%2GXmN>`,9L3$*r;XP=fDmIdXM`)mSU_`>7[PQ<Al?O=5q[<bB0Hg3#[L9U]-!7edW!$(/X100q.DAQ;P(8HofaKC0kU%mqlJDMtN#j&f?g(F'cKP:-i$Jq7,k"b+daA#NL?(j=r$UC2k6VVop^Jr+a.Li873$Q4ZUI"Nssl^RDkH[X6j8#?WCK>@t-VONDnPOl'0PGobG:*$7*W+-Am)Y7%T.?9N`S.'iKRZNVhpFB'6G2"&3FQ=V0@Aco7jdARk>@HC#P'Pno61?:-hhG6\0\)&^n%L3RG].0tS6CV81!b=tiCIN[NR<J1iEi6=7?b9_LMP+CVMr2U&+eC9T`8:KLZgC'N2<_FAUL"@fZH$5?DkeDp!dR"$=loi@fL[kYSitmG`F<j"-\]2)oLkV`l"YOCC(1Qh6T2JQ!Z5bg\^3#@IjnbTHurkYqe=(AUb#8EN71I>*lNT[MUH;8mp8.p31-_EBk]hFjE\jXEt;RXT\[jZC%UbcZ/Q^@M,(2:U>j&Fd<BO2\tr]PNiO8><mG2jsIFGWgChU:SNuop%/+ea[70fV.hERjSsfo7!MRNHc-E8>l@/oG;/U\mr;qOol,Qn?I9&QRc<#+$Q?\QYsnJ_r8LZj`SHY-'^Y!pq4MG4(*0K'3USVD28^HG>c=LX]qPl^RA2$i\j&[C=%k+;(8e0T0&^%MZ8*p;iUJu*0Nd?GH')Z/)j#(l41u5^N^.D0hI"GKifq@nO-fl_!B\$uH+L_9~>endstream
+endobj
+112 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1526
+>>
+stream
+Gb!#Z>>sQ?'Ro4HSB#_a&@tu,bu6tVFQi(/$)E"/7Dqr%]=&H%Ja'r<O`/l$ThC`tPY<'-8`tKa4')V#5HK-J14Y9?S6[mX*7e>%!=<04&XMaHLD*!c)"IY4P:BN5#S.[%&rPL:NgE,Y8.\Z"16Mdt/)ZWp1^`_?!o"7b5)hlO&e@DNItdq"g\$Y!g_]hVH3[,h6sJ#+KcRHbTY`'T5VtuaOV`t#=D&]`"JJ/%<"tKl;O!?\m+,]i@IAf5E)G91!Sh[k!QsQ<h3n/4GF>]bfsn-@>GgQ>'de+^?^e:-AVCbA^9In%"KpncaZks*DXGFXY]Y5VP[Kq-SuGBW'<JscqEnc/lcde,7B$\1d@+dqm=.g/+rl+-s+o(B1(N$m'b2sGS?B+sRS^"O4gF;K:'>B'5`Kle0IQ]iJL!Pd-qe>N3"7_,;Nije;RFggEZou:N+k./(0urO8>JRe:N=d.Kf1\j:e`Ff-5H?<L]^N^Wn##blG*lDn"G(H`Y-QL`FM-To>[ZFF#1<Ygt&2Q>]*I3V($8MfYU?"(ipfZ-_XqR#=UK'Y0m"U>o@'m2]Ngc9gK?D!bFPlT+M4_&Ln?:A0&SSdVTsL)28F.r(^oH2p8lbWd7bDE%--IVph[Kda\BX_.uYrA$9<q1i^t%8)TM1JS)UIQl*H[YMS\+7XJF^$tH5/['<.i)_$Of"hcS,Oc)EWa24AhFbo*H@f/[@g*S#K\2P#:=;r%b.mP>M0S]4/[#1_5U#Q2KV9aUX?0,)F@\c*4p_=;.8R\l=1ACXklANh/JX%h%fa;edCKT,!IFV`t+D4JG:ZS3-PpKG9q/VdI'967H9PO#TU9Ih7^so)2L?P"Q%qWH.+(ss:pB>rM\LGAFE4c$1^OjGTVtkYLGUDN,anCGAf,K>!bTA2+`>MRbY:Hq6mM$P^/$+)q/l->U]LJ9EhLi%X;;'cp)!gko3+MOo3sAlbDV%A)@W`.bEqa6T>PRQoKp`.0nMbhcn['/Eh3BY@pDRu@?/j):I;<69RdZnE^)(k")nZ%C)r+[L03d^8\oZMX1KVGG:Km1#^kL+c2G'f7Q5c<h%U"/[oWS&gHF0^0r.<G7dnh3ok8NTO.GT*Qb\2W(?IR<<d?,Z*)!-r5>kVA]`f,([eSe,i%Dm_R%pmqnk`m1SiFoH/m!\j/@F((;ml<@_E[9'0rl>*[bdmlnQQ[jM:3a_Y4d/1M`rmIb+@A>Y+*D&)Ak+$tK;e0_au>uTG-n6OhlWb!Mo08]Kkr\]n0)>'jqQ$']?3C)<%`@YSPWdNBmSW1,X]f%?s-M:ltW$q\'@>2%g/TG,*CU8nB.(#*#gI>1's\)Zt8")Or,RrU3W:1:8Q6CjqNZ-H&5G-Y/j;kl]b)74%PKMe"jiB.&*e*%M-NhHO%Om@9B^B;`.\NomM]U%3:YJ9nK=-4>s*K!ft5eMeS$UrEG*iEQ6[8<*_b*bIu*d]hN?[:g/gUMI_A,%0,ilV4E5DAGa5UITAn4VSb.Ta5\/J+tS\X-Rcla5Ru3_:At<0$#6I~>endstream
+endobj
+xref
+0 113
+0000000000 65535 f 
+0000000073 00000 n 
+0000000144 00000 n 
+0000000251 00000 n 
+0000000363 00000 n 
+0000000446 00000 n 
+0000000561 00000 n 
+0000000751 00000 n 
+0000000828 00000 n 
+0000001044 00000 n 
+0000001261 00000 n 
+0000001561 00000 n 
+0000001862 00000 n 
+0000002162 00000 n 
+0000002462 00000 n 
+0000002733 00000 n 
+0000003004 00000 n 
+0000003276 00000 n 
+0000003548 00000 n 
+0000003721 00000 n 
+0000003910 00000 n 
+0000004142 00000 n 
+0000004375 00000 n 
+0000004608 00000 n 
+0000004940 00000 n 
+0000005147 00000 n 
+0000005354 00000 n 
+0000005561 00000 n 
+0000005769 00000 n 
+0000005945 00000 n 
+0000006145 00000 n 
+0000006345 00000 n 
+0000006521 00000 n 
+0000006716 00000 n 
+0000006925 00000 n 
+0000007133 00000 n 
+0000007303 00000 n 
+0000007494 00000 n 
+0000007685 00000 n 
+0000007881 00000 n 
+0000008071 00000 n 
+0000008261 00000 n 
+0000008452 00000 n 
+0000008801 00000 n 
+0000009034 00000 n 
+0000009266 00000 n 
+0000009499 00000 n 
+0000009742 00000 n 
+0000009986 00000 n 
+0000010229 00000 n 
+0000010430 00000 n 
+0000010630 00000 n 
+0000010834 00000 n 
+0000011038 00000 n 
+0000011214 00000 n 
+0000011404 00000 n 
+0000011575 00000 n 
+0000011789 00000 n 
+0000012002 00000 n 
+0000012179 00000 n 
+0000012370 00000 n 
+0000012551 00000 n 
+0000012732 00000 n 
+0000012913 00000 n 
+0000013096 00000 n 
+0000013469 00000 n 
+0000013654 00000 n 
+0000013835 00000 n 
+0000014040 00000 n 
+0000014245 00000 n 
+0000014419 00000 n 
+0000014593 00000 n 
+0000014795 00000 n 
+0000014990 00000 n 
+0000015212 00000 n 
+0000015434 00000 n 
+0000015618 00000 n 
+0000015809 00000 n 
+0000015986 00000 n 
+0000016177 00000 n 
+0000016382 00000 n 
+0000016587 00000 n 
+0000016922 00000 n 
+0000017113 00000 n 
+0000017303 00000 n 
+0000017496 00000 n 
+0000017687 00000 n 
+0000017884 00000 n 
+0000018074 00000 n 
+0000018257 00000 n 
+0000018438 00000 n 
+0000018630 00000 n 
+0000018848 00000 n 
+0000019043 00000 n 
+0000019220 00000 n 
+0000019410 00000 n 
+0000019630 00000 n 
+0000019806 00000 n 
+0000019981 00000 n 
+0000020316 00000 n 
+0000020497 00000 n 
+0000020707 00000 n 
+0000020913 00000 n 
+0000021088 00000 n 
+0000021340 00000 n 
+0000021412 00000 n 
+0000021749 00000 n 
+0000021847 00000 n 
+0000025326 00000 n 
+0000029435 00000 n 
+0000033870 00000 n 
+0000037504 00000 n 
+0000040024 00000 n 
+trailer
+<<
+/ID 
+[<6a4bdd80550e9bf6259a4adf97b1750d><6a4bdd80550e9bf6259a4adf97b1750d>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 105 0 R
+/Root 104 0 R
+/Size 113
+>>
+startxref
+41643
+%%EOF
