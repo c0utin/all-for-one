@@ -32,6 +32,7 @@ export const handler = async (event) => {
   }
 
   if (!initialized) {
+    console.log('[function] init db. TURSO_URL present?', !!process.env.TURSO_DATABASE_URL);
     await init();
     initialized = true;
   }
