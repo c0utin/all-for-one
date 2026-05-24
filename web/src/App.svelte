@@ -4,7 +4,6 @@
   import Calendar from './components/Calendar.svelte';
 
   const AUTH_KEY = 'afo_auth';
-  const APP_PASSWORD = import.meta.env.VITE_APP_PASSWORD || '';
   let authenticated = false;
   let password = '';
   let loginError = '';
@@ -59,7 +58,7 @@
   onDestroy(() => clearInterval(timer));
 
   function login() {
-    if (password === APP_PASSWORD) {
+    if (password === 'coutin') {
       sessionStorage.setItem(AUTH_KEY, '1');
       authenticated = true;
       loginError = '';
