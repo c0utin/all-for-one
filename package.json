@@ -1,0 +1,20 @@
+{
+  "name": "all-for-one",
+  "version": "0.1.0",
+  "description": "Study changelog + tracker. Mobile-first Svelte web on a libSQL/Turso store with cloud sync. CSV + flashcard exports.",
+  "type": "module",
+  "workspaces": ["web"],
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "NODE_ENV=production node src/index.js",
+    "migrate": "node src/migrate.js",
+    "build": "npm run build --workspace web"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "jszip": "^3.10.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
