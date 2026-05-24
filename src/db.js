@@ -1,4 +1,4 @@
-import { createClient } from '@libsql/client';
+import { createClient } from '@libsql/client/web';
 import path from 'node:path';
 import fs from 'node:fs';
 
@@ -33,14 +33,13 @@ const LOCAL_FILE  = path.join(DATA_DIR, 'afo.db');
 
 export const MODE = (TURSO_URL && TURSO_TOKEN) ? 'turso' : 'local';
 
-let db;
-if (MODE === 'turso') {
-  console.log(`[db] turso (remote) -> ${TURSO_URL}`);
-  db = createClient({ url: TURSO_URL, authToken: TURSO_TOKEN, intMode: 'number' });
-} else {
-  console.log(`[db] local-only -> ${LOCAL_FILE}`);
-  db = createClient({ url: `file:${LOCAL_FILE}`, intMode: 'number' });
-}
+console.log(`[db] ${MODE === 'turso' ? 'turso (remote)' : 'local'} -> ${MODE === 'turso' ? TURSO_URL : LOCAL_FILE}`);
+
+const db = createClient({
+  url: MODE === 'turso' ? TURSO_URL : `file:${LOCAL_FILE}`,
+  ...(MODE === 'turso' && TURSO_TOKEN ? { authToken: TURSO_TOKEN } : {}),
+  intMode: 'number',
+});
 
 export default db;
 
