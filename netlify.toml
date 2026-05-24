@@ -1,9 +1,9 @@
 [build]
-  publish = "web/dist"
+  publish = "dist"
   command = "npm run build"
 
 [functions]
-  directory = "web/netlify/functions"
+  directory = "netlify/functions"
 
 [[redirects]]
   from = "/api/*"
